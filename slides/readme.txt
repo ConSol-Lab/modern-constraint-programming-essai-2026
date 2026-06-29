@@ -1,0 +1,1 @@
+The slides are intended for the live sessions to illustrate ideas. They are not intended as standalone learning material; for self-study refer to the book instead.
