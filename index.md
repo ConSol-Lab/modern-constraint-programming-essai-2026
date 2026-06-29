@@ -4,7 +4,22 @@ This course is offered at the European Summer School of Artificial Intelligence 
 
 The webpage is still under construction. For now, its main purpose is to give prospective attendees an impression of the course and help them decide whether it is a good fit for their interests and background.
 
-Lecturer: Dr Emir Demirović, Associate Professor, TU Delft.
+## Lecturer
+
+<table>
+<tr>
+<td width="220">
+<img src="emir.jpg" width="180">
+</td>
+<td>
+
+**Dr Emir Demirović**  
+Associate Professor, TU Delft  
+[Personal Website](https://emirdemirovic.com)
+
+</td>
+</tr>
+</table>
 
 ## Overview
 
