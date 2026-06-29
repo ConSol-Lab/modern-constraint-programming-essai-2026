@@ -6,20 +6,11 @@ The webpage is still under construction. For now, its main purpose is to give pr
 
 ## Lecturer
 
-<table>
-<tr>
-<td width="220">
-<img src="emir.jpg" width="180">
-</td>
-<td>
+<img src="emir.jpg" width="180" alt="Emir Demirović">
 
 **Dr Emir Demirović**  
 Associate Professor, TU Delft  
 [Personal Website](https://emirdemirovic.com)
-
-</td>
-</tr>
-</table>
 
 ## Overview
 
