@@ -12,6 +12,13 @@ The webpage is still under construction. For now, its main purpose is to give pr
 Associate Professor, TU Delft  
 [Personal Website](https://emirdemirovic.com)
 
+## At a Glance
+
+- **Prerequisites:** None
+- **Topics:** Search, Propagation, Conflict Analysis, Certificates
+- **Format:** Interactive lectures + dedicated textbook
+- **Takeaway:** Understand how modern constraint solvers work internally
+
 ## Overview
 
 Constraint programming has undergone significant development over the past two decades. Techniques such as conflict analysis, nogood learning, lazy clause generation, certification, and proof systems have become fundamental components of many modern solvers. Beyond their practical impact, these developments have also provided new ways of understanding solver behaviour.
@@ -71,7 +78,7 @@ After completing the summer school, participants should be able to:
 
 ## Course Material (draft)
 
-- [Book](modern-constraint-programming-draft-essai-2026.pdf)
+- [Textbook](modern-constraint-programming-draft-essai-2026.pdf)
 
 ### Slides (examples - draft)
 - [Introduction to Search and Propagation](slides/intro-search-and-propagation.pdf)
