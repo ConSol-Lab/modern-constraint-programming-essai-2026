@@ -1,4 +1,3 @@
-# Modern Constraint Programming
 > From Propagation to Proof Systems
 
 This course is offered at the European Summer School of Artificial Intelligence (ESSAI 2026).
