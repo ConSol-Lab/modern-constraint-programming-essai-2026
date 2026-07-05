@@ -70,7 +70,6 @@ We conclude with a discussion of current research directions and open problems.
 After completing the summer school, participants should be able to:
 
 - Explain how modern constraint solvers operate internally.
-- Analyse and compare propagation algorithms.
 - Design propagators and their explanations.
 - Understand conflict analysis and learning.
 - Connect solver behaviour to its mathematical foundations.
@@ -80,7 +79,7 @@ After completing the summer school, participants should be able to:
 
 - [Textbook](modern-constraint-programming-draft-essai-2026.pdf)
 
-### Slides (examples - draft)
+### Slides
 - [Day 1: Introduction to Search and Propagation](slides/day1-search-and-propagation.pdf)
 - [Day 2: Propagation (All-Different and Cumulative Constraints)](slides/day2-propagation-alldifferent-cumulative.pdf)
 - [Day 3: Conflict Analysis](slides/day3-conflict-analysis.pdf)
