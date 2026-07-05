@@ -81,5 +81,7 @@ After completing the summer school, participants should be able to:
 - [Textbook](modern-constraint-programming-draft-essai-2026.pdf)
 
 ### Slides (examples - draft)
-- [Introduction to Search and Propagation](slides/intro-search-and-propagation.pdf)
-- [Cumulative Constraint](slides/cumulative-constraint.pdf)
+- [Day 1: Introduction to Search and Propagation](slides/day1-search-and-propagation.pdf)
+- [Day 2: Propagation (All-Different and Cumulative Constraints)](slides/day2-propagation-alldifferent-cumulative.pdf)
+- [Day 3: Conflict Analysis](slides/day3-conflict-analysis.pdf)
+- [Day 4: Certificates and Proof Systems for Constraint Programming](slides/day4-certificates.pdf)
