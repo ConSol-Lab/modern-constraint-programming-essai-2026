@@ -1,8 +1,6 @@
 > From Propagation to Proof Systems
 
-This course is offered at the European Summer School of Artificial Intelligence (ESSAI 2026).
-
-The webpage is still under construction. For now, its main purpose is to give prospective attendees an impression of the course and help them decide whether it is a good fit for their interests and background.
+This course was offered at the European Summer School of Artificial Intelligence (ESSAI 2026).
 
 ## Lecturer
 
@@ -75,7 +73,7 @@ After completing the summer school, participants should be able to:
 - Connect solver behaviour to its mathematical foundations.
 - Read and evaluate contemporary research papers in constraint solving.
 
-## Course Material (draft)
+## Course Material
 
 - [Textbook](modern-constraint-programming-draft-essai-2026.pdf)
 
